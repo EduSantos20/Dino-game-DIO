@@ -1,2 +1,3 @@
-# Dino-game-DIO
-Jogo do dinossauro
+# Dio Dino Game
+
+Foi criado na aula de Dino Game da DIO
